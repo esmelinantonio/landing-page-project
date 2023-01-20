@@ -381,10 +381,10 @@ p.section__subtitle {
   align-items: center;
   gap: 1.5rem;
 }
-
+/*
 .community__card-content {
 }
-
+*/
 .community__card-icon {
   display: flex;
   align-items: center;
